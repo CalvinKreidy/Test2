@@ -1,0 +1,20 @@
+body {
+    font-family: 'Sono', sans-serif;
+  }
+  @media (max-width: 850px) {
+   h1{font-size: 40px; font-weight: 600; text-align: center;margin: 0px; width: 300px; height: 50px; background-color: #e9e8e8; color: #3F2305; border-radius: 20px 20px 0px 0px; }
+   .basicpayment{text-align: center; width: 300px;margin: auto ; height: 100px; background-color: #F2EAD3; color: #613c15;}
+   .buynowbasic{text-align: center; width: 300px; height: 40px; margin: 0px; background-color: #3F2305; border-radius: 0px 0px 20px 20px; color: white;}
+   .ulbasic > li{font-size: 15px; color: #684a29;}
+   .bigger{font-size: 30px; font-weight: 100; ;}
+   .basic{width: 300px;}
+   .ulbasic{width: 260px;height: 250px; background-color: #DFD7BF; margin: 0px;}
+   .container{display: flex; flex-direction: column;gap: 70px;}
+   .basic{align-self: center;}
+   .standard{align-self: center;}
+   .premium{align-self: center;}
+   footer{font-size: 10px; text-align: center;margin: 20px 0px 0px 0px;; background-color: lightgrey; width: 100%; padding: 5px 0px 5px 0px;}
+   body{margin: 50px 0px 0px 0px;}
+
+
+  }
